@@ -1,3 +1,6 @@
+# What it is
+A streamlined and easy-to-use AI performance evaluation / summary template with modern UI in HTML, including correct percentage chart and comparison with other models, precision, recall, F1-score, and confusion matrix. Enables you to create the result chart within 3 minutes. 
+ 
 # How to use
 
 In `analysis.js`, Delete the orginal `analysisSingle`, and add your own data with `analysisSingle` function. You can also modify the HTML to make the title more relative to your research.
